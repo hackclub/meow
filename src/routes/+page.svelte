@@ -25,10 +25,13 @@
             <summary class="font-kitty-cutes text-xl text-pink-500 p-4 cursor-pointer">What is Meow?</summary>
             <p class="px-4 pb-4 text-pink-400">Meow is a Hack Club YSWS where we'll send you a cat plushie if you ship a project to do with cats!</p>
         </details>
-        
+        <details class="mb-3 bg-pink-100 rounded-lg">
+            <summary class="font-kitty-cutes text-xl text-pink-500 p-4 cursor-pointer">What is Hackatime?</summary>
+            <p class="px-4 pb-4 text-pink-400">Hackatime is an Editor extension that tracks the time you spend coding! You can install it <a href="https://hackatime.hackclub.com" class="underline hover:text-pink-300">here</a></p>
+        </details>
         <details class="mb-3 bg-pink-100 rounded-lg">
             <summary class="font-kitty-cutes text-xl text-pink-500 p-4 cursor-pointer">How do I participate?</summary>
-            <p class="px-4 pb-4 text-pink-400">Spend over 5 hours (tracked with Hackatime) building a project to do with cats, fill out the form, and we'll send you a plushie.</p>
+            <p class="px-4 pb-4 text-pink-400">Join our Slack <a href="https://hackclub.com/slack/" class="underline hover:text-pink-300">here</a>. Spend over 5 hours (tracked with Hackatime) building a project to do with cats, fill out the form, and we'll send you a plushie.</p>
         </details>
         
         <details class="mb-3 bg-pink-100 rounded-lg">
