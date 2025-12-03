@@ -19,5 +19,6 @@ COPY package.json .
 EXPOSE 3000
 
 ENV NODE_ENV=production
+ENV COUNTER_KEY=""
 
 CMD ["node", "build"]
