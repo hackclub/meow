@@ -5,7 +5,7 @@
 <div class="flex flex-col items-center px-10">
         <h1 class="font-cattie text-9xl pt-20 text-pink-300" style="-webkit-text-stroke: 2px #d87093;">Meow!</h1>
         <h2 class="font-cattie text-5xl pb-5 text-pink-300" style="-webkit-text-stroke: 1.2px #d87093;">by Hack Club</h2>
-        <h3 class="font-kitty-cutes text-2xl pb-10 text-pink-400">Spend 5 hours building something to do with cats, get a cat plushie!</h3>  
+        <h3 class="font-kitty-cutes text-2xl pb-10 text-pink-400">Spend 5 hours building something to do with cats, get a cat plushie! Ends Christmas Day!</h3>  
     <div class="hover:scale-105 ">
         <a href="https://submit.hackclub.com/meow">
             <img src="meow.png" alt="A cute cat" class="w-80" />
