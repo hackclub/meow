@@ -1,3 +1,7 @@
+<svelte:head>
+    <link rel="icon" type="image/png" href="/meow.png" />
+</svelte:head>
+
 <div class="flex flex-col items-center px-10">
         <h1 class="font-cattie text-9xl pt-20 text-pink-300" style="-webkit-text-stroke: 2px #d87093;">Meow!</h1>
         <h2 class="font-cattie text-5xl pb-5 text-pink-300" style="-webkit-text-stroke: 1.2px #d87093;">by Hack Club</h2>
