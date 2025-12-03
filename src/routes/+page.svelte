@@ -15,7 +15,7 @@
                 <path d="M10 45 Q 5 25, 25 5" />
                 <path d="M15 5 L 25 5 L 25 15" />
                 </svg>
-                <h3 class="font-kitty-cutes text-pink-400 text-3xl -translate-x-6"> Click me to submit! </h3>
+                <h3 class="font-kitty-cutes text-pink-400 text-3xl -translate-x-6"> Pet me to submit! </h3>
             </div>
         </a>
     </div>
