@@ -41,7 +41,7 @@
         
         <details class="mb-3 bg-pink-100 rounded-lg">
             <summary class="font-kitty-cutes text-xl text-pink-500 p-4 cursor-pointer">How do I get my plushie?</summary>
-            <p class="px-4 pb-4 text-pink-400">Once you've submitted your project and it's been verified to be good practice, we'll send your cat plushie to the address you provide.</p>
+            <p class="px-4 pb-4 text-pink-400">Once you've submitted your project and it's been verified to be good practice, we'll send your cat plushie to the address you provide, if you're in the US. Or if preffered or you live internationally, we'll send out a digital credit card with $25 that you can use to buy a plushie.</p>
         </details>
     </div>
 </div>
