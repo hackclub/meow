@@ -7,7 +7,7 @@
         <h2 class="font-cattie text-5xl pb-5 text-pink-300" style="-webkit-text-stroke: 1.2px #d87093;">by Hack Club</h2>
         
         <h3 class="font-kitty-cutes text-5xl pb-10 text-pink-400">Meow is over, but you should check out my next program! <a href="https://buildboard.hackclub.com" class="underline hover:text-pink-300">Buildboard</a>!</h3>  
-        <h3 class="font-kitty-cutes text-2xl pb-10 text-pink-400">Spend 5 hours building something to do with cats, get a cat plushie! Ends Christmas Day!</h3>  
+        <h3 class="font-kitty-cutes text-2xl pb-10 text-pink-400">Spend 5 hours building something to do with cats, get a cat plushie! Ends Christmas Day, 2025!</h3>
     <div class="hover:scale-105 ">
         <a href="https://buildboard.hackclub.com">
             <img src="meow.png" alt="A cute cat" class="w-80" />
@@ -17,7 +17,7 @@
                 <path d="M10 45 Q 5 25, 25 5" />
                 <path d="M15 5 L 25 5 L 25 15" />
                 </svg>
-                <h3 class="font-kitty-cutes text-pink-400 text-3xl -translate-x-6"> Pet me to submit! </h3>
+                <h3 class="font-kitty-cutes text-pink-400 text-3xl -translate-x-6"> Pet me to go to Buildboard! </h3>
             </div>
         </a>
     </div>
